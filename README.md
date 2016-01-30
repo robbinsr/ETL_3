@@ -91,5 +91,6 @@ Outputs for Step 3
 - `robbins_etl_06724-0001-Data-Analysis-1994.xlsx`
  - these can be reached at https://github.com/robbinsr/ETL_3/tree/master/transforming_household/to_step_4 
 
+More information can be found in `transforming_household `(and its subdirectories) at https://github.com/robbinsr/ETL_3/tree/master/transforming_household ,
 
 Please feel free to move to the ETL_4 repository at this point or at some future moment at your convenience.
