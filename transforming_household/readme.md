@@ -1,12 +1,18 @@
-#DS0001 Directory Explanation
+# Directory Explanation
 
-In addition to the `README.md` file that you are reading, this directory contains the following files:
+In addition to the `README.md` file that you are reading, this directory contains the following folders:
+
+- `from Step 2`
+- `to Step 4`
+
+The processing that is documented here involves:
 
 - `06724-0001-Data.txt`
 - `robbins_etl_example_06724-0001-Data-Crosswalk-1994.xlsx`
 - `robbins_etl_example_06724-0001-Data-1994.xlsx`
 - `robbins_etl_example_06724-0001-Data-Analysis-1994.accdb`
 - `robbins_etl_example_06724-0001-Data-Analysis-1994.xlsx`
+- all of the above files are at https://github.com/robbinsr/ETL_3/tree/master/transforming_household/to_step_4
 
 --
 
@@ -16,7 +22,7 @@ In addition to the `README.md` file that you are reading, this directory contain
 
 `robbins_etl_example_06724-0001-Data-1994.xlsx` is an spreadsheet that contains the data from `06724-0001-Data.txt` after field names have been standardized.
 
-`robbins_etl_example_06724-0001-Data-Analysis-1994.accdb` includeds the data from the `robbins_etl_example_06724-0001-Data-1994.xlsx` spreadsheet. It also includes 75 SQL queries that are used to assess the accuracy of the meta-data (data dictionary) information provided in `06724-Codebook.pdf`. The two types of queries are 1) queries that identify distinct values for each of the 52 fields, and 2) queries that identify the counts of the various distinct values for some of the fields. (Not all fields had associated count information in `06724-Codebook.pdf`.
+`robbins_etl_example_06724-0001-Data-Analysis-1994.accdb` includes the data from the `robbins_etl_example_06724-0001-Data-1994.xlsx` spreadsheet. It also includes 75 SQL queries that are used to assess the accuracy of the meta-data (data dictionary) information provided in `06724-Codebook.pdf`. The two types of queries are 1) queries that identify distinct values for each of the 52 fields, and 2) queries that identify the counts of the various distinct values for some of the fields. (Not all fields had associated count information in `06724-Codebook.pdf`.
 
 `robbins_etl_example_06724-0001-Data-Analysis-1994.xlsx` provides a field by field analysis with regards to the actual types of values in fields, as well as when possible, a field-by-field comparison of distinct value counts indicated in `06724-Codebook.pdf` and found in queries using `robbins_etl_example_06724-0001-Data-Analysis-1994.accdb`. It includes two primary worksheets (Unique_Values_Analysis, Unique_Values_Counts_Analysis) as well as four supplementary worksheets that provide additional data or discrepencies between the files. 
 
