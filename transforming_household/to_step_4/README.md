@@ -1,3 +1,14 @@
+One file in this directory is this README.md file.
+
+Six files in this directory are from steps 1 and 2, and are included here, to be complete.
+
+- `06724-0001-Data.txt`
+- `06724-Codebook.pdf` 
+- `robbins_etl_example_06724-0001-Data-Crosswalk-1994.xlsx`
+- `robbins_etl_example_06724-0001-Data-1994.xlsx`
+- `robbins_etl_example_06724-0001-Data-Analysis-1994.accdb`
+- `robbins_etl_example_06724-0001-Data-Analysis-1994.xlsx`
+
 Two files in this directory were developed in step 3:
 
 - `robbinsr_etl_06724-0001-Data-Code-Tables-Design-1994.vsdx`
