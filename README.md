@@ -14,8 +14,9 @@ Inputs to Step 3
 
 **from Step 1**
 
- - `06724-Codebook.pdf` in https://github.com/robbinsr/ETL_2/tree/master/DS1_Household 
- - `06724-0001-Data.txt` in https://github.com/robbinsr/ETL_2/tree/master/DS1_Household/DS0001
+ - `06724-Codebook.pdf` 
+ - `06724-0001-Data.txt`
+ - these can be reached at https://github.com/robbinsr/ETL_3/tree/master/transforming_household/to_step_4 
 
 and
 
@@ -25,7 +26,7 @@ and
 - `robbins_etl_06724-0001-Data-Crosswalk-1994.xlsx`
 - `robbins_etl_06724-0001-Data-Analysis-1994.accdb`
 - `robbins_etl_06724-0001-Data-Analysis-1994.xlsx`
-- Each of these files can be found at: https://github.com/robbinsr/ETL_2/tree/master/DS1_Household/DS0001
+ - these can be reached at https://github.com/robbinsr/ETL_3/tree/master/transforming_household/to_step_4 
  
 ---------
 Processing for Step 3
@@ -45,7 +46,7 @@ Outputs for Step 3
    
 -  `robbinsr_etl_06724-0001-Data-Code-Tables-Design-1994.vsdx`
 -  `robbinsr_etl_06724-0001-Data-Code-Tables-Design-1994.pdf`
--  Both of these files can be found at: https://github.com/robbinsr/ETL_3/tree/master/DS1_Household/DS0001
+ - these can be reached at https://github.com/robbinsr/ETL_3/tree/master/transforming_household/to_step_4 
 
 
 **Manual" ETL Plan**
@@ -78,8 +79,9 @@ Outputs for Step 3
 
 **and Step 1 outputs passed through**
 
- - `06724-Codebook.pdf` in https://github.com/robbinsr/etl_example_step_03/tree/master/DS1_Household 
- - `06724-0001-Data.txt` in https://github.com/robbinsr/etl_example_step_03/tree/master/DS1_Household/DS0001
+ - `06724-Codebook.pdf` 
+ - `06724-0001-Data.txt` 
+ - these can be reached at https://github.com/robbinsr/ETL_3/tree/master/transforming_household/to_step_4 
 
 **and Step 2 outputs passed through**
 
@@ -87,7 +89,7 @@ Outputs for Step 3
 - `robbins_etl_06724-0001-Data-Crosswalk-1994.xlsx`
 - `robbins_etl_06724-0001-Data-Analysis-1994.accdb`
 - `robbins_etl_06724-0001-Data-Analysis-1994.xlsx`
-- Each of these files can be found at: https://github.com/robbinsr/ETL_3/tree/master/DS1_Household/DS0001
+ - these can be reached at https://github.com/robbinsr/ETL_3/tree/master/transforming_household/to_step_4 
 
 
 Please feel free to move to the ETL_4 repository at this point or at some future moment at your convenience.
